@@ -28,7 +28,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-we add the ![1592294868172](1592294868172.png)
+we add the ![1592294868172](./page/1592294868172.png)
 
 ### Jekyll Themes
 
