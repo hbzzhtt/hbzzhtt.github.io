@@ -1,0 +1,28 @@
+* {
+    margin: 0 0;
+    padding: 0 0;
+}
+html {
+    height: 100%;
+    width: 100%;
+}
+body {
+    height: 100%;
+    width: 100%;
+}
+div {
+    /* margin: 0% auto; */
+    padding: 5%;
+    width: 100%;
+    height: 100%;
+    font-size:larger;
+    background-color: paleturquoise;
+}
+span {
+    margin: 1%;
+    font-size:larger;
+}
+p {
+    margin-left: 1%;
+    margin-top: 1%;
+}
